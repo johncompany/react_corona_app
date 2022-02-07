@@ -1,3 +1,10 @@
+# Corona Trackerアプリ（React） with TypeScript
+Kindle本「はじめてさわるReact & JavaScript with TypeScript」
+
+公開サイトは[こちら](https://dreamy-keller-32e8c9.netlify.app/)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
