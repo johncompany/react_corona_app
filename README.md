@@ -3,8 +3,7 @@ Kindle本「はじめてさわるReact & JavaScript with TypeScript」
 
 公開サイトは[こちら](https://dreamy-keller-32e8c9.netlify.app/)
 
-※[COVID19　API](https://covid19api.com/)のサポート終了(2023/5/15)
-
+※ (2023/5/15)[COVID19API](https://covid19api.com/)のサポート終了
 ---
 
 # Getting Started with Create React App
